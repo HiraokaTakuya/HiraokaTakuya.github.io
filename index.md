@@ -5,7 +5,7 @@ title:
 
 # Hiraoka Takuya
 
-## about me
+## About me
 * Name: 平岡 拓也 (Hiraoka Takuya)
 * Twitter: [HiraokaTakuya](https://twitter.com/HiraokaTakuya)
 * Like: Rust
