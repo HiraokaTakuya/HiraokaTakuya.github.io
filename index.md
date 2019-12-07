@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Blog | Hiraoka Takuya
+title:
 ---
 
 # Hiraoka Takuya
 
 ## about me
-* 平岡 拓也 (Hiraoka Takuya)
+* Name: 平岡 拓也 (Hiraoka Takuya)
+* Twitter: [HiraokaTakuya](https://twitter.com/HiraokaTakuya)
+* Like: Rust
 
-## GitHub
+## GitHub Repositories
 * [Apery (Rust)](https://github.com/HiraokaTakuya/apery_rust)
 * [Apery (C++)](https://github.com/HiraokaTakuya/apery)
