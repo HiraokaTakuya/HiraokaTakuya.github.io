@@ -1,4 +1,5 @@
 markdown: kramdown
-highlighter: pygments
 theme: jekyll-theme-slate
-title: "Hiraoka Takuya"
+title: "HiraokaTakuya"
+github:
+  is_project_page: false
