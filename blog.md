@@ -4,6 +4,8 @@ title: "HiraokaTakuya's blog"
 permalink: /blog/
 ---
 
+[Top_page](https://hiraokatakuya.github.io/)
+
 # Posts
 - [第32回世界コンピュータ将棋選手権 Apery 参加記](https://hiraokatakuya.github.io/blog/2022/05/06/wcsc32)
 - [育休生活3ヶ月目4ヶ月目](https://hiraokatakuya.github.io/blog/2021/08/18/childcare_leave)
