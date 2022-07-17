@@ -7,6 +7,7 @@ permalink: /blog/
 [Top_page](https://hiraokatakuya.github.io/)
 
 # Posts
+- [1年の育児休業を終えて](https://hiraokatakuya.github.io/blog/2022/07/18/childcare_leave)
 - [第32回世界コンピュータ将棋選手権 Apery 参加記](https://hiraokatakuya.github.io/blog/2022/05/06/wcsc32)
 - [育休生活3ヶ月目4ヶ月目](https://hiraokatakuya.github.io/blog/2021/08/18/childcare_leave)
 - [育児楽し過ぎるので1年間育児休業します](https://hiraokatakuya.github.io/blog/2021/06/02/childcare_leave)
