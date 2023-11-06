@@ -3,3 +3,6 @@ authors = ["HiraokaTakuya"]
 language = "en"
 multilingual = false
 src = "src"
+
+[output.html]
+additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js"]
