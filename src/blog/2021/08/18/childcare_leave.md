@@ -1,14 +1,8 @@
----
-layout: default
-date: "2021-08-18"
-title: "育休生活3ヶ月目4ヶ月目"
----
+2021年08月18日
 
-{{ page.date | date: "%Y年%m月%d日" }}
+# 育休生活3ヶ月目4ヶ月目
 
-# {{ page.title }}
-
-[前回ブログ](https://hiraokatakuya.github.io/blog/2021/06/02/childcare_leave)の後、生後3ヶ月目と4ヶ月目を終えました。<br>
+[前回ブログ](/blog/2021/06/02/childcare_leave.md)の後、生後3ヶ月目と4ヶ月目を終えました。<br>
 取り敢えず簡単にでも記録を残そうと思います。<br>
 
 ## ミルク
@@ -51,5 +45,5 @@ title: "育休生活3ヶ月目4ヶ月目"
 そして仕事をする余裕は全然無いです。
 
 ## 育児の他のエントリー
-[1年の育児休業を終えて](https://hiraokatakuya.github.io/blog/2022/07/18/childcare_leave)  
-[育児楽し過ぎるので1年間育児休業します](https://hiraokatakuya.github.io/blog/2021/06/02/childcare_leave)  
+[1年の育児休業を終えて](/blog/2022/07/18/childcare_leave.md)  
+[育児楽し過ぎるので1年間育児休業します](/blog/2021/06/02/childcare_leave.md)  
