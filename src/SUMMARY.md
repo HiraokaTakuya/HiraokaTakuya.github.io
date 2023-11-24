@@ -1,5 +1,6 @@
 # Posts
 
+- [第2子誕生](./blog/2023/11/25/we_had_a_second_child.md)
 - [2022年振り返り](./blog/2023/01/09/review_the_year_2022.md)
 - [自宅を買いました](./blog/2023/01/08/i_bought_a_house.md)
 - [1年の育児休業を終えて](./blog/2022/07/18/childcare_leave.md)
